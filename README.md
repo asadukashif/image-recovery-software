@@ -1,5 +1,5 @@
 # Image Recovery Software
-A software written in C that allows users to recover PNGs, JPEGS, and GIFs from their deleted drives, or any proivided hexdump
+A software written in C that allows users to recover PNGs, JPEGS, and GIFs from their deleted drives, or any provided hexdumps
 
 <br />
 
